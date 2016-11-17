@@ -1,0 +1,22 @@
+{
+    "name": "lasserafn/money",
+    "description": "",
+    "keywords": ["money"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lasse Rafn",
+            "email": "lasserafn@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "LasseRafn\\Money\\": "src"
+        }
+    }
+}
