@@ -1,6 +1,12 @@
 ## Money
 
-#Installation
+-----
+
+**This is no longer maintained**
+
+-----
+
+# Installation
 
 1. Require using composer
 ````
